@@ -38,3 +38,37 @@ list is predefined class its in buildins data structure  ,its also elementaray d
 
 4) list is also called as dynamic array
 
+## Numpy
+if you want to perform mathematical calculations, then you shoukd use NumPy arrays by importing NumPy package
+
+2) in NumPy array size is fixed
+
+3) pip install numpy
+
+## class and object 
+eg -in real world common noun such as docter is class where as dr shashank is proper noun it will be an object 
+
+class is a group of variable and function
+
+class is a way to implement encapsulation
+object can be made if we dont have class 
+class is like a blueprint of an object  
+
+what ever member variable and member function you will create in class is called as Attribute
+
+
+Object 
+
+object is an instance of a class 
+instance means an example 
+
+in python we have two type of object 
+1)class object
+2) Instance Object
+
+to create a new object in python we dont need new keyword
+
+In class we can make 3 type of function 
+Instance method 
+static method
+classs method
