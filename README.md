@@ -63,7 +63,7 @@ object is an instance of a class
 instance means an example 
 
 in python we have two type of object 
-1)class object
+1) class object
 2) Instance Object
 
 to create a new object in python we dont need new keyword
@@ -72,3 +72,19 @@ In class we can make 3 type of function
 Instance method 
 static method
 classs method
+
+##  elementary operation for DLL
+Inserting
+deletion
+traversing
+searching
+checking the empty list
+
+# DLL basic structure and key note is that we can traverse back in DLL not in SLL
+
+we have a object in DLL class that will be our start in start we have reference of first node that contain prev,item,next in the first nodes next we have next nodes reference 
+
+and last node prev conatin previous node reference and in first node prev we have None check the image  below 
+
+![alt text](image.png)
+
