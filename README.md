@@ -1,9 +1,10 @@
 # Python_Leetcode 
 python is dynamically typed langauage ........datatype is deceided while run time
+
 ## Array
 Array- collection of similar type of data like if one is integer  rest of the object will be integer general perspective its is not growable ...length of the array is fixed 
 
-2) we can store only homogenious values in array where as in listg u can store hetrogenous value
+2) we can store only homogenious values in array where as in list u can store hetrogenous value
 
 3) in array class we will have many function 
 appemd()
@@ -99,3 +100,5 @@ pop- to remove added elements in stack
 is_empty is function to check if stack is empty or not
 peek-shows which elements is in top 
 size function - to check the size of the paticular data structure
+
+
