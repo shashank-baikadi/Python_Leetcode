@@ -88,3 +88,14 @@ and last node prev conatin previous node reference and in first node prev we hav
 
 ![alt text](image.png)
 
+## Stack
+stack is linear(logically they are in sequence) data structure and working priciple of stack is last in first out (LIFO)
+![alt text](image-1.png)
+
+fundamental operation 
+![alt text](image-2.png)
+push- to add in stack
+pop- to remove added elements in stack
+is_empty is function to check if stack is empty or not
+peek-shows which elements is in top 
+size function - to check the size of the paticular data structure
