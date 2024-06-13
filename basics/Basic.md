@@ -20,3 +20,15 @@ keywords
 
 operators
 ![alt text](image.png)
+
+Type conversion 
+![alt text](image-1.png)
+
+Loop
+![alt text](image-2.png)
+we dont ahve do while loop in python we have only while and for 
+
+while condition:
+     code 
+     code 
+![alt text](image-3.png)
