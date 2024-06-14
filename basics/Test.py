@@ -104,3 +104,10 @@ while i<=e:
 
 
 # write a program to print sum of first N  natural number
+n=int(input("enter a number :"))
+i=1
+s=0
+while i<=n:
+    s=s+i
+    i+=1
+print("sum of ",s)
