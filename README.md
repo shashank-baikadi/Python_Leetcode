@@ -101,4 +101,27 @@ is_empty is function to check if stack is empty or not
 peek-shows which elements is in top 
 size function - to check the size of the paticular data structure
 
+# Queue
+![alt text](image-5.png)
+Queue is a linear data structure working principle of stack is first in first out
 
+# operations on queue
+enqueue-insertion
+dequeue-deletion
+is_empty
+get_front
+get_rear
+size
+
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+
+
+# Deque 
+Deque is another variation of queue 
+Deque is Double-Ended-Queue
+Deque is a linear data structure
+Both ends can be used for insertion  and deletion 
+![alt text](image-9.png)
+In some cases we can access the element from middle too
