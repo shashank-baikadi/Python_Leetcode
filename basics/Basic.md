@@ -32,3 +32,6 @@ while condition:
      code 
      code 
 ![alt text](image-3.png)
+
+break keyword
+![alt text](image-4.png)
