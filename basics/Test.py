@@ -142,4 +142,14 @@ else:
 
 
 '''
-#
+# write a program to print unicode of each character of the string "shashank"
+'''
+s1='shashank'
+for i in s1:
+    print(i ,'unicode is',ord(i))
+
+'''
+
+# using for loop  1 to 4 having difference 2 using range keyword
+for e in range(1,5,2):
+    print(e)
