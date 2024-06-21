@@ -50,6 +50,12 @@ Range
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 
-list is similar to array
+list is similar to  array
+
+difference is in list we can store hetrogenous data eg int,int,float but in array we can all data should be same 
+
 ![alt text](image-11.png)
 ![ ](image-12.png)
+
+how to create list obect 
+![alt text](image-13.png)
