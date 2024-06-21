@@ -49,3 +49,7 @@ Range
 ![alt text](image-8.png)
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+
+list is similar to array
+![alt text](image-11.png)
+![ ](image-12.png)

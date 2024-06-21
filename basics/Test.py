@@ -151,5 +151,17 @@ for i in s1:
 '''
 
 # using for loop  1 to 4 having difference 2 using range keyword
+'''
 for e in range(1,5,2):
     print(e)
+
+'''
+# write a program to print first n natural number using range keyword 
+'''
+print("enter a number :")
+n=int(input())
+for e in range(1,n+1):
+    print(e**2,end=' ')
+print()
+
+'''
