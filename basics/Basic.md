@@ -59,3 +59,10 @@ difference is in list we can store hetrogenous data eg int,int,float but in arra
 
 how to create list obect 
 ![alt text](image-13.png)
+
+Concept of negative indexing
+![alt text](image-14.png)
+
+how to add elements in list 
+![alt text](image-15.png)
+![alt text](image-16.png)
