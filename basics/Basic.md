@@ -72,3 +72,17 @@ Packing and Unpacking
 
 Built in methods which can  be implemented on any iterables like  str ,range,set,tuple,dict
 ![alt text](image-18.png)
+
+list() methods -we can use this methods and pass only one argument  
+![alt text](image-19.png)
+
+comparison operator on list
+![alt text](image-20.png)
+
+concatenation operator 
+![alt text](image-21.png)
+
+str class
+![alt text](image-22.png)
+![alt text](image-23.png)
+![alt text](image-24.png)

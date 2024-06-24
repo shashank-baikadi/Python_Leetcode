@@ -75,7 +75,31 @@ l1.insert(100,1000) # 80 is the index and 1000 is the element [10,999,20,30,40,5
 # break is used to break the loop it will exit the loop
 # for loop is on iterable sequence like list,tuple,string,dict it will not work on int float bool
 
+'''          
 for i in range(1,11):
     print(2*i-1,end=" ")
     i+=1
 print()
+
+'''
+
+# built in methods which can be worked on any iterable
+'''
+l1=[ 10,20,30,40,50,60,70,80,90,100]
+
+print(len(l1)) # length of the list
+print(max(l1)) # maximum value of the list
+print(min(l1)) # minimum value of the list
+print(sum(l1)) # sum of the list
+print(sorted(l1)) # sorted list
+print(reversed(l1)) # reversed list
+print(list(reversed(l1))) # reversed list
+
+l1.reverse() # reverse the list
+print(l1)
+l1.sort() # sort the list
+print(l1)
+l1.sort(reverse=True) # sort the list in reverse order
+print(l1)
+
+'''
