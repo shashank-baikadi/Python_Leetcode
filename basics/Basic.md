@@ -66,3 +66,9 @@ Concept of negative indexing
 how to add elements in list 
 ![alt text](image-15.png)
 ![alt text](image-16.png)
+
+Packing and Unpacking
+![alt text](image-17.png)
+
+Built in methods which can  be implemented on any iterables like  str ,range,set,tuple,dict
+![alt text](image-18.png)

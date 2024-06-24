@@ -59,6 +59,7 @@ print (l3)
 '''
 
 # how to edit an element from the list
+'''
 l1=[10,20,30,40,50,60]
 l1[2]=300# in place of 30 we are replacing 300
 # l1[6]=600 # we can not add element in the list by using index
@@ -67,8 +68,14 @@ l1.append(70)# we can add element in the list by using append method [10,20,30,4
 l1.insert(1,999)# we can add element in the list by using insert method [10,999,20,30,40,50,60,70] there will not be replacement 20 will be shifted to forward
 l1.insert(100,1000) # 80 is the index and 1000 is the element [10,999,20,30,40,50,60,70,1000] if index > lastindex then value will be stored at last index +1 
 
+'''
 
 # loop based problem 
 # while loop is used when u want to run the code in loop only untill the code is true
 # break is used to break the loop it will exit the loop
 # for loop is on iterable sequence like list,tuple,string,dict it will not work on int float bool
+
+for i in range(1,11):
+    print(2*i-1,end=" ")
+    i+=1
+print()
