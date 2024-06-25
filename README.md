@@ -20,7 +20,7 @@ difference btw array and dyanamic array
 array:
 fixed size
 indexed
-collection of same type elements
+collection of same type elements.
 
 dynamic array:
 collection of diiferent type element
