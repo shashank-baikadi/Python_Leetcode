@@ -1,7 +1,7 @@
 #Array is a collection of data items of same type
 
 from array import *
-a1=array('i',[1,2,3,4,5])
+a1=array('i',[1,2,3,4,5,6])
 
 type(a1)
 print(a1)
