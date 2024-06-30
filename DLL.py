@@ -1,7 +1,7 @@
 # creating node where we havre 3 sub blocks prev item and next 
 #when initial we have none value in prev that means its the first node because we have no refer in prev
 
-#creating a class node have 3 sub blocks prev item and next
+#creating a class node have 3 sub blocks prev item and next.
 class Node:
   def __init__(self,prev=None,item=None,next=None):
     self.prev=prev
