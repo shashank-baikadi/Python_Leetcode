@@ -32,3 +32,35 @@ print(d1[1],d1[2])
 
 for k in d1:
     print(k,d1[k]) # print key and value 
+
+
+'''
+edit the element
+
+edit means you want to change data-value of nthe element and not the key-value
+dictObject[key-value]=newdatavalue
+
+delete
+del d1[102]
+
+add
+dictionaryObject[new-key-value]=data-value
+d1[102]='hundred two'
+
+methods
+items()-collects dict elements 
+keys()-collection of keys  only of the elements
+values()-collection of data-value only of the elements
+
+get()
+pop()
+popitem()
+clear()
+copy()
+
+
+'''
+
+d4.keys() # returm the keys of the dict object
+d1.values() # return the values of the dict object
+d1.items() # return the key-value pair of the dict object
