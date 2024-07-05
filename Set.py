@@ -33,4 +33,42 @@ concatenation and repetition operator
 
 set+set-not supported
 set*int-not supported
+
+COMPARISON operator
+    s1>s2
+    s1<s2
+    s1==s2
+    s1!=s2
+    s1>=s2
+    s1<=s2
+    all this supported
+
+    two set bject are equal if their elements are same doesnt matter order of the elements
 '''
+
+
+'''
+det object methods we can use the below method like this s1.add
+
+add()
+remove()
+discard()
+pop()
+clear()
+copy()
+update()
+union()
+intersection()
+difference()
+symmetric_difference()
+issubset()
+issuperset()
+isdisjoint()
+
+'''
+
+s5={10,50,80,51}
+s5.add((66,67,68))
+print(s5,'we can add iterable object in set')
+
+s5.update()
