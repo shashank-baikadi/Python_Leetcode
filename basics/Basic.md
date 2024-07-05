@@ -86,3 +86,13 @@ str class
 ![alt text](image-22.png)
 ![alt text](image-23.png)
 ![alt text](image-24.png)
+
+
+
+
+
+set-iterables-
+set is mutable 
+indexing is not applicable 
+cant have duplicates 
+slicing operator is not applicable
