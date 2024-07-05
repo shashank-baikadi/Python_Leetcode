@@ -25,3 +25,10 @@ d3=dict()
 
 d4=dict(a='shashank',b='baikadi')
 print(d4)
+
+# accessing dict elements
+print(d1)
+print(d1[1],d1[2])
+
+for k in d1:
+    print(k,d1[k]) # print key and value 
