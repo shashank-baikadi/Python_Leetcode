@@ -46,7 +46,7 @@ if you want to perform mathematical calculations, then you shoukd use NumPy arra
 
 3) pip install numpy
 
-## class and object 
+## class and object s
 eg -in real world common noun such as docter is class where as dr shashank is proper noun it will be an object 
 
 class is a group of variable and function
