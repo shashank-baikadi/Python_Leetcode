@@ -7,7 +7,7 @@ Array- collection of similar type of data like if one is integer  rest of the ob
 2) we can store only homogenious values in array where as in list u can store hetrogenous value
 
 3) in array class we will have many function 
-appemd()
+append()
 count()
 extend() 
 insert()
