@@ -71,4 +71,21 @@ s5={10,50,80,51}
 s5.add((66,67,68))
 print(s5,'we can add iterable object in set')
 
-s5.update()
+s5.update((66,67,68))
+print(s5,'in update the 66,67,68 will be added as individual element in s5')
+
+
+'''
+set comprehension
+s1={expressionm for e in object}
+s=input("enter a string")
+s1={e for e in s if e in 'aeiou'}
+
+^
+|
+for e in s:
+if e in "aeiou":
+a1.addd(e)
+
+
+'''
