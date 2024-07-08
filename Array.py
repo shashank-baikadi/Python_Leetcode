@@ -6,7 +6,7 @@ a1=array('i',[1,2,3,4,5,6])
 type(a1) 
 print(a1)
 
-#print all the elements of a1
+#print all the elements of a1.
 for x in a1:
     print(x)
 #print all the elements of a1
