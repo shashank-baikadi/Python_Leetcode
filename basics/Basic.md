@@ -96,3 +96,12 @@ set is mutable
 indexing is not applicable 
 cant have duplicates 
 slicing operator is not applicable
+
+
+
+Procedure(function) oriented programming
+python supports object oriented approach of programming
+
+class---common noun(Teacher)
+object---proper noun(John)
+state----set of values store in an object
