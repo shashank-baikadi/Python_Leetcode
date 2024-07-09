@@ -3,3 +3,7 @@
 # lambda input:expression
 # lambda a,b:a+b
 # no need to of def keyword
+
+lambda a,b:a+b
+add=lambda a,b:a+b
+print(add(2,3))
