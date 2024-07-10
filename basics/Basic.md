@@ -125,3 +125,4 @@ print("hello"))
 
 t1=test()-- we are craeting an instance object of test class which is empty at the time of creation
 t2=test()
+
