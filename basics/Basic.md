@@ -116,3 +116,12 @@ Instance object and class object
 
 if class name is test then class object name is test --when you create a class then you are atomatically creating a class object then referencing variable will be same as class name 
 there can be only one class object for a class
+
+class test:  ---for this test class we have class object(test) in that we have x and y variable
+x=5
+y=9
+def f1(:
+print("hello"))
+
+t1=test()-- we are craeting an instance object of test class which is empty at the time of creation
+t2=test()
