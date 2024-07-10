@@ -126,3 +126,20 @@ print("hello"))
 t1=test()-- we are craeting an instance object of test class which is empty at the time of creation
 t2=test()
 
+
+variable types 
+-global variable
+-local variable
+-instance object variable
+-class object variable
+
+
+__init__() methods
+
+class test:
+x=5
+y=9
+def __init__(self): #init methosd takes min one arg that will be self 
+self.a=4
+
+t1=test()  # as soon as we call this instance object will be created and __init__(t1) is called now self is refering to t1 object the (a variabe is created in that and 4 is stored in side that)
