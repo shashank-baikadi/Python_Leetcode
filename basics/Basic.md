@@ -143,3 +143,4 @@ def __init__(self): #init methosd takes min one arg that will be self
 self.a=4
 
 t1=test()  # as soon as we call this instance object will be created and __init__(t1) is called now self is refering to t1 object the (a variabe is created in that and 4 is stored in side that)
+![alt text](image-25.png)
