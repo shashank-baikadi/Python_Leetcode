@@ -144,3 +144,22 @@ self.a=4
 
 t1=test()  # as soon as we call this instance object will be created and __init__(t1) is called now self is refering to t1 object the (a variabe is created in that and 4 is stored in side that)
 ![alt text](image-25.png)
+![alt text](image-26.png)
+
+
+Type of functions
+instance methods
+static methods
+class method
+non-member fucntions
+![alt text](image-27.png)
+
+create and access
+instance object variable
+1) through __init__ () via self
+2) through instance object via self
+3) through class object via instance object
+
+class object variable
+1) Inside the class
+2) Through class name 
