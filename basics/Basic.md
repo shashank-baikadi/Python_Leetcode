@@ -105,3 +105,14 @@ python supports object oriented approach of programming
 class---common noun(Teacher)
 object---proper noun(John)
 state----set of values store in an object
+
+
+Encapsulation-act od combining properties and methofs related to the same entity
+student is a class
+in that we have properties-name ,rollno,sid,section methods-changesection(),promote class(),enrollstudent() 
+properties and methods together is called as attributes
+
+Instance object and class object
+
+if class name is test then class object name is test --when you create a class then you are atomatically creating a class object then referencing variable will be same as class name 
+there can be only one class object for a class
