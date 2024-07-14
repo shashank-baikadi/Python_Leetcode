@@ -1,5 +1,5 @@
 # Python_Leetcode 
-python is dynamically typed langauage ........datatype is deceided while run time
+python is dynamically typed langauage ........datatype is deceided while run time.
 
 ## Array
 Array- collection of similar type of data like if one is integer  rest of the object will be integer general perspective its is not growable ...length of the array is fixed 
