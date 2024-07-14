@@ -22,4 +22,5 @@ a1.append(20)
 
 #count occurance of 20 in a1
 a1.count(20)
+a1.count(2)
 
